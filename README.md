@@ -14,7 +14,9 @@ DCGAN consist of discriminator and generator model. The generator produces fake 
          • Use ReLU activation in generator for all layers except for the output, which uses Tanh.
 
          • Use LeakyReLU activation in the discriminator for all layers.
-         
+
+**DCGAN Architecture (128x128X3):**     
+<img src="https://github.com/DhanyaJayanA/DCGAN/blob/main/Untitled.jpg" alt="DCGAN">        
                  
 **Problem Statement: Generate Fake Image using DCGAN**
 
