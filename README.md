@@ -1,10 +1,10 @@
 #### Generative AI 
 
-Create synthetic contents (image, text audio and video).
+      Creates synthetic contents (image, text, audio and video).
 
 #### Generative Adversarial Network (GAN)
 
-Ian J. Goodfellow et al., 2014 proposed the first generative model is generative adversarial network (GAN), which generates synthetic images.
+      Ian J. Goodfellow et al., 2014 proposed the first generative model is generative adversarial network (GAN), which generates synthetic images.
 
 #### Deep Convolutional Generative Adversarial Network (DCGAN)
 
@@ -33,9 +33,9 @@ In this project discriminator consists of strided Conv2D layers and LeakyRelu as
 
 #### Variational autoencoder (VAE)
 
-Diederik P Kingma & Max, 2013 proposed autoencoder variational bayes (VAE) an extension of the traditional autoencoder.  The encoder map the input data into the latent space and the decoder reconstruct it from latent space.
+     Diederik P Kingma & Max, 2013 proposed autoencoder variational bayes (VAE) an extension of the traditional autoencoder.  The encoder map the input data into the latent space and the decoder reconstruct it from latent space.
 
 #### Diffusion models
 
-Jascha Sohl-Dickstein et al., 2015 proposed the first diffusion probabilistic model (DPM) using non-equilibrium thermodynamics. In the forward process add noise and in the reverse process restore it. 
+    Jascha Sohl-Dickstein et al., 2015 proposed the first diffusion probabilistic model (DPM) using non-equilibrium thermodynamics. In the forward process add noise and in the reverse process restore it. 
 
