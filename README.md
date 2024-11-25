@@ -31,13 +31,22 @@ In this project discriminator consists of strided Conv2D layers and LeakyRelu as
 
 <a href="https://github.com/DhanyaJayanA/Generative-AI/blob/main/GenerateFakeImage_DCGAN.ipynb">DCGAN_Code</a>
 
+#### Auxiliary Classifier Generative Adversarial Network (ACGAN)
+   
+    It is an extension of the classic GAN, that incorporates an auxiliary classifier to improve the quality and diversity of generated data.
+<a href="https://github.com/DhanyaJayanA/Generative-AI/blob/main/acgan.ipynb">ACGAN_code</a>
+
 #### Variational autoencoder (VAE)
 
-     in 2013 Diederik P Kingma & Max, proposed autoencoder variational bayes (VAE) an extension of the traditional autoencoder.  The encoder map input image into latent space. The decoder reconstruct it from the latent space.
+     In 2013 Diederik P Kingma & Max, proposed autoencoder variational bayes (VAE) an extension of the traditional autoencoder.  The encoder map input image into latent space. The decoder reconstruct it from the latent space.
      
 <a href="https://github.com/DhanyaJayanA/Generative-AI/blob/main/Variational_autoencoder.ipynb">VAE_Code</a>
 
 #### Diffusion models
 
-    in 2015 Jascha Sohl-Dickstein et al., proposed the first diffusion probabilistic model (DPM) using non-equilibrium thermodynamics. In the forward process, add noise to input image. In the reverse process, restore it. 
+    In 2015 Jascha Sohl-Dickstein et al., proposed the first diffusion probabilistic model (DPM) using non-equilibrium thermodynamics. In the forward process, add noise to input image. In the reverse process, restore it. 
 
+#### Image captioning 
+
+    Image captioning refers to the process of generating descriptive text for a given image
+<a href="https://github.com/DhanyaJayanA/Generative-AI/blob/main/Image_caption.ipynb">Image_captioning_Code</a> 
