@@ -50,3 +50,9 @@ In this project discriminator consists of strided Conv2D layers and LeakyRelu as
 
     Image captioning refers to the process of generating descriptive text for a given image
 <a href="https://github.com/DhanyaJayanA/Generative-AI/blob/main/Image_caption.ipynb">Image_captioning_Code</a> 
+
+#### keras T2I
+
+    Generate arts from text prompts.
+
+<a href="https://github.com/DhanyaJayanA/Generative-AI/blob/main/Keras_text_image.ipynb">T2I_Code</a>
